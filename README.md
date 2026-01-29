@@ -16,7 +16,7 @@ A simple Python mini project that converts normal text into a secret coded langu
    git clone <your-repo-link>
 
 2. Run the program:
-   python secret_code.py
+   python code and decode.py
 
 ## 🧠 How It Works
 - Short words (≤ 3 letters) are reversed.
