@@ -1,31 +1,38 @@
-# 🔐 Secret Code Encoder & Decoder (Python)
+# 🔐 Secret Code Encoder & Decoder (Python):
 
 A simple Python mini project that converts normal text into a secret coded language and decodes it back.
 
-## ✨ Features
+## ✨ Features:
 - Encode normal messages into secret code
 - Decode secret messages back to original text
 - Uses string slicing and logical conditions
 - Simple and beginner-friendly
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used:
 - Python 3
 
-## ▶ How To Run
+## ▶ How To Run:
 1. Clone the repository:
    git clone <your-repo-link>
 
 2. Run the program:
+```bash
    python code and decode.py
 
-## 🧠 How It Works
+##📁Project Structure:
+coding and decoding/
+|
+|______code and decode.py
+|______README.md
+
+## 🧠 How It Works:
 - Short words (≤ 3 letters) are reversed.
 - Longer words are encoded using a custom pattern.
 - Decoding follows the reverse logic.
 
-## 📌 Example
+## 📌 Example:
 Input: hello world  
 Output: ghtellohjik ghtorldwjik
 
-## 👩‍💻 Author
+## 👩‍💻 Author:
 Nikita Jadhav
