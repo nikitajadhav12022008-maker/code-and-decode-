@@ -13,8 +13,6 @@ A simple Python mini project that converts normal text into a secret coded langu
 
 ## ▶ How To Run:
 1. Clone the repository:
-   git clone <your-repo-link>
-
 2. Run the program:
 ```bash
    python code and decode.py
@@ -30,7 +28,7 @@ coding and decoding/
 - Longer words are encoded using a custom pattern.
 - Decoding follows the reverse logic.
 
-## 📌 Example:
+## 📌 Example Output:
 Input: hello world  
 Output: ghtellohjik ghtorldwjik
 
