@@ -1,5 +1,7 @@
-#coding and decoding:
+#python based coder and decoder:
+#input whether you want to code or decode
 n = input("do you want to coding or decoding:")
+#conditions
 if(n == "coding"):
     n1 = input("enter a messege to code:")
     n2 = n1.split()
@@ -16,3 +18,4 @@ else:
             print(i[::i],end = " ")
         else:
             print(i[-4]+i[3:-4],end = " ")
+
