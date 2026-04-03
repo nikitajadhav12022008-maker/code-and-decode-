@@ -19,21 +19,24 @@ A simple Python mini project that converts normal text into a secret coded langu
 
  ---
 
+ ## 📁Project Structure:
+ 
+- coding and decoding/
+- |______code_decode.py
+- |______README.md
+
+----
+
 ## ▶ How To Run:
+
 1. Clone the repository:
 2. Run the program:
 ```bash
    python code_decode.py
 
----------
+----
 
-##📁Project Structure:
-coding and decoding/
-|
-|______code_decode.py
-|______README.md
 
------------
 
 ## 🧠 How It Works:
 - Short words (≤ 3 letters) are reversed.
