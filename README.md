@@ -45,14 +45,12 @@ A simple Python mini project that converts normal text into a secret coded langu
 
 ----
 
+##📌 Example Output:
 
-
-
-## 📌 Example Output:
 Input: hello world  
 Output: ghtellohjik ghtorldwjik
 
----------
+---
 
 ## 👩‍💻 Author:
 Nikita Jadhav
