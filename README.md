@@ -27,6 +27,15 @@ A simple Python mini project that converts normal text into a secret coded langu
 
 ----
 
+## 🧠 How It Works:
+
+- Short words (≤ 3 letters) are reversed.
+- Longer words are encoded using a custom pattern.
+- Decoding follows the reverse logic.
+
+---
+
+
 ## ▶ How To Run:
 
 1. Clone the repository:
@@ -38,12 +47,6 @@ A simple Python mini project that converts normal text into a secret coded langu
 
 
 
-## 🧠 How It Works:
-- Short words (≤ 3 letters) are reversed.
-- Longer words are encoded using a custom pattern.
-- Decoding follows the reverse logic.
-
--------
 
 ## 📌 Example Output:
 Input: hello world  
