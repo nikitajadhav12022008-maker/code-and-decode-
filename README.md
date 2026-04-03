@@ -2,7 +2,7 @@
 
 A simple Python mini project that converts normal text into a secret coded language and decodes it back.
 
--------
+----
 
 ## ✨ Features:
 
@@ -14,9 +14,10 @@ A simple Python mini project that converts normal text into a secret coded langu
  ---
 
 ## 🛠 Technologies Used:
+
 - Python 3
 
- -------
+ ---
 
 ## ▶ How To Run:
 1. Clone the repository:
