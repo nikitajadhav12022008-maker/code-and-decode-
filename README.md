@@ -5,12 +5,13 @@ A simple Python mini project that converts normal text into a secret coded langu
 -------
 
 ## ✨ Features:
+
 - Encode normal messages into secret code
 - Decode secret messages back to original text
 - Uses string slicing and logical conditions
 - Simple and beginner-friendly
 
-- ---------
+ ---
 
 ## 🛠 Technologies Used:
 - Python 3
