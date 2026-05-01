@@ -35,6 +35,13 @@ A simple Python mini project that converts normal text into a secret coded langu
 
 ---
 
+## 📌 Example Output:
+
+- Input: hello world  
+- Output: ghtellohjik ghtorldwjik
+
+---
+
 
 ## ▶ How To Run:
 
@@ -45,12 +52,6 @@ A simple Python mini project that converts normal text into a secret coded langu
 
 ----
 
-##📌 Example Output:
-
-Input: hello world  
-Output: ghtellohjik ghtorldwjik
-
----
 
 ## 👩‍💻 Author:
 Nikita Jadhav
